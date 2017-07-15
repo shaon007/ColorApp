@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\ColorApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\custom_btn.xml",
+        "source": "C:\\AndroidStudioProjects\\ColorApp\\app\\src\\main\\res\\drawable-mdpi\\custom_btn.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\ColorApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn.xml",
+        "source": "C:\\AndroidStudioProjects\\ColorApp\\app\\src\\main\\res\\drawable-mdpi\\btn.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\ColorApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_hover.xml",
+        "source": "C:\\AndroidStudioProjects\\ColorApp\\app\\src\\main\\res\\drawable-mdpi\\btn_hover.xml"
+    }
+]

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="6"
+    >
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Choose an image from: "/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2">
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:text="Camera"
+            android:layout_weight="1"
+            android:id="@+id/btnCamera"
+            android:onClick="buttonOnClick"
+            android:drawableTop="@drawable/cameraicon"
+            android:background="@drawable/custom_btn"
+            android:textColor="#e9f909"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:text="Gallery"
+            android:layout_weight="1"
+            android:id="@+id/btnGallery"
+            android:onClick="buttonOnClick"
+            android:drawableTop="@drawable/galleryicon"
+            android:background="@drawable/custom_btn"
+            android:textColor="#e9f909"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgVw"
+        android:layout_weight="5.5"/>
+
+
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Click To Upload File"
+        android:id="@+id/btnUpload"
+        android:layout_weight="0.25"
+        android:textColor="#f2fcfc"
+        android:onClick="buttonOnClick"
+        android:background="@drawable/custom_btn"
+        />
+
+
+
+
+
+ </LinearLayout>

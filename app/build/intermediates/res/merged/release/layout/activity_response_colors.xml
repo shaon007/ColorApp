@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+
+  <!--  <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="200px"
+        android:id="@+id/messageText2"
+        android:textStyle="bold"
+        android:background="@android:color/darker_gray"
+        />-->
+
+
+    <GridView
+        android:id="@+id/gridView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:numColumns="2"
+        android:layout_margin="5dp"
+        android:horizontalSpacing="10dp"
+        android:verticalSpacing="10dp"
+        />
+
+
+
+ </LinearLayout>

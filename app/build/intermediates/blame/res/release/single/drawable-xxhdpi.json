@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\ColorApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\ColorApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\ColorApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\uploadicon.png",
+        "source": "C:\\AndroidStudioProjects\\ColorApp\\app\\src\\main\\res\\drawable-xxhdpi\\uploadicon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\ColorApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\galleryicon.png",
+        "source": "C:\\AndroidStudioProjects\\ColorApp\\app\\src\\main\\res\\drawable-xxhdpi\\galleryicon.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\ColorApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\cameraicon.png",
+        "source": "C:\\AndroidStudioProjects\\ColorApp\\app\\src\\main\\res\\drawable-xxhdpi\\cameraicon.png"
+    }
+]

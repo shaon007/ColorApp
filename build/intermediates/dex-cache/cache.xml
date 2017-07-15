@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\rhsha\AndroidStudioProjects\UploadToServer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c6c894ae141b9ae3f74baebd7a8a581861854e4">
+        <dex dex="C:\Users\rhsha\AndroidStudioProjects\UploadToServer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cb5d74207d176b8bcd628b76e099aaf46f0c8983\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ColorApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b97855b69c7af912a9a073dab62b31fda10cdb37">
+        <dex dex="C:\AndroidStudioProjects\ColorApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1f595eedf265ee1d194afe502a3057975f5ee1fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\androidsdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\rhsha\AndroidStudioProjects\UploadToServer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_8a02dae1edea097db27d00feed3624aa1a9d5fe9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rhsha\AndroidStudioProjects\UploadToServer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93e21996adc6169e5ad9192585d19fcec7254b01">
+        <dex dex="C:\Users\rhsha\AndroidStudioProjects\UploadToServer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3db98789eaca4ed393129f6737b17d3b2f2bb983\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\ColorApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\AndroidStudioProjects\ColorApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_84f25550e42d6d755f64981bfda1955b6c3db4de\classes.dex" />
+    </item>
+
+</items>

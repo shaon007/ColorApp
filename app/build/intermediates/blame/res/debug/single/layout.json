@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\ColorApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\similarcolor_listitem.xml",
+        "source": "C:\\AndroidStudioProjects\\ColorApp\\app\\src\\main\\res\\layout\\similarcolor_listitem.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\ColorApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_similar_colors.xml",
+        "source": "C:\\AndroidStudioProjects\\ColorApp\\app\\src\\main\\res\\layout\\activity_similar_colors.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\ColorApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_find_maincolors.xml",
+        "source": "C:\\AndroidStudioProjects\\ColorApp\\app\\src\\main\\res\\layout\\activity_find_maincolors.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\ColorApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_complementary_color.xml",
+        "source": "C:\\AndroidStudioProjects\\ColorApp\\app\\src\\main\\res\\layout\\activity_complementary_color.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\ColorApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\responselist_listitem.xml",
+        "source": "C:\\AndroidStudioProjects\\ColorApp\\app\\src\\main\\res\\layout\\responselist_listitem.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\ColorApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_complementary_response.xml",
+        "source": "C:\\AndroidStudioProjects\\ColorApp\\app\\src\\main\\res\\layout\\activity_complementary_response.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\ColorApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_response_colors.xml",
+        "source": "C:\\AndroidStudioProjects\\ColorApp\\app\\src\\main\\res\\layout\\activity_response_colors.xml"
+    }
+]

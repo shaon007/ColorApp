@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="5"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_weight="0.25">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Color code : # "
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="8dp"
+            />
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:id="@+id/etv_colorCode"
+            android:hint="ff0000"
+
+
+            />
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            />
+        <Button
+            android:id="@+id/btn_navSimilarColor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="similar colors"
+            android:onClick="buttonOnClick"
+            android:background="@drawable/custom_btn"
+            android:padding="5dp"
+            android:layout_marginTop="5dp"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_weight="0.25"
+        android:weightSum="2"
+        android:layout_marginTop="10dp">
+        <Button
+            android:id="@+id/btnCamera_complemantary"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:text="Camera"
+            android:layout_weight="1"
+            android:onClick="buttonOnClick"
+            android:drawableTop="@drawable/cameraicon"
+            android:background="@drawable/custom_btn"
+            android:textColor="#e9f909"
+            />
+
+        <Button
+            android:id="@+id/btnGallery_complemantary"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:text="Gallery"
+            android:layout_weight="1"
+            android:onClick="buttonOnClick"
+            android:drawableTop="@drawable/galleryicon"
+            android:background="@drawable/custom_btn"
+            android:textColor="#e9f909"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgVw_choosenImg"
+        android:layout_weight="4"/>
+
+
+
+    <Button 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Click To Upload File \u0026  compile"
+        android:id="@+id/btnUpload_complementary"
+        android:layout_marginTop="20dp"
+        android:layout_weight="0.25"
+        android:background="@drawable/custom_btn"
+        android:onClick="buttonOnClick"
+    />
+
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="20dp"
+        android:id="@+id/imgVw_responseImg"/>
+
+
+</LinearLayout>
